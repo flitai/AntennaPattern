@@ -112,7 +112,7 @@
 
 
 
-## 核心数据结构分析
+## 核心数据结构
 
 ### AntennaGainParameters 类
 
@@ -188,7 +188,7 @@ std::string antennaPatternTypeString(AntennaPatternType antPatType);
 
 
 
-## 输入输出分析
+## 输入输出
 
 ### 主要输入
 
